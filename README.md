@@ -230,6 +230,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal](https://github.com/sdogruyol/spec-kemal) - Easy testing for Kemal
+ * [multi-auth](https://github.com/msa7/multi_auth) - standardizes multi-provider OAuth2 authentication (inspired by omniauth)
 
 ## Game Development
  * [CrSFML](https://github.com/oprypin/crsfml) - Bindings to [SFML](http://www.sfml-dev.org/) multimedia/game library
